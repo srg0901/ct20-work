@@ -1,0 +1,11 @@
+# Week 2 Reflection
+
+During Week 2, we continued working in p5.js and focused on using `point()` and basic shapes as building blocks for drawing. This week helped me understand how simple commands can be combined to create more complex visuals. By working with shapes like points, lines, rectangles, and ellipses, I began to see how code can function as a creative medium rather than just a technical tool.
+
+We also explored color in p5.js, learning how to use `fill()`, `stroke()`, and `background()` to change the appearance and mood of a sketch. Experimenting with RGB values helped me understand how small changes in numbers can significantly impact the visual outcome. Color became another way to communicate ideas and emotion through code.
+
+A major part of this week was learning how iteration works using `for` and `while` loops. Instead of drawing each shape individually, we were able to repeat actions efficiently and create patterns and structured drawings. This made the process feel more intentional and showed how code can save time while producing more dynamic results.
+
+Troubleshooting was also an important part of the learning process. When sketches did not work as expected, I learned to slow down, read error messages, and make small adjustments to fix issues. Watching The Coding Train tutorials helped reinforce these concepts and made problem-solving feel more approachable.
+
+Overall, Week 2 helped me feel more confident using shapes, color, and iteration in p5.js. I started to better understand how creative ideas can be translated into code and how experimentation plays an important role in the coding process.
