@@ -1,0 +1,11 @@
+# Week 3 Reflection
+
+In Week 3, we continued working in p5.js with a stronger focus on iteration, logic, and structure. This week introduced more complex ways of thinking about repetition through nested loops, which allowed us to create more detailed and layered visual patterns. Instead of repeating a single action, nested loops helped me understand how multiple dimensions of repetition can work together to build more intricate compositions.
+
+We also learned about functions and how they help organize code into reusable sections. Creating custom functions made my sketches feel cleaner and easier to understand, and it showed me how breaking code into smaller parts can make experimentation more manageable. Functions helped reinforce the idea that code can be both expressive and structured at the same time.
+
+Another important concept this week was conditional statements. Using logic such as `if` statements allowed sketches to respond differently based on certain conditions, which made the visuals feel more dynamic and intentional. This added a sense of decision-making to the code rather than everything behaving the same way every time.
+
+We were also introduced to the idea of noise and how it differs from randomness. Learning about `noise()` helped me understand how organic and natural-looking variation can be created in code, which felt especially relevant to thinking about generative and creative systems. The readings and Coding Train tutorials helped connect these technical ideas to artistic concepts and real-world examples.
+
+Overall, Week 3 pushed me to think more critically about how structure, logic, and iteration work together in p5.js. While the concepts were more challenging, they also made the creative possibilities feel much broader and more intentional.
